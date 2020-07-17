@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi I'm Fajrul
 
 <!--
 **fajrullah/fajrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm a software engineer who is building technology to halal-nest and is helping as volunteer on The e-learning for muslim.
+
 
 Here are some ideas to get you started:
 

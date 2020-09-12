@@ -1,5 +1,4 @@
 ### Hi I'm Fajrul
----
 
 I'm a software engineer who is building technology to halal-nest. I’m looking to collaborate on helping communities as volunteer and is currently helping as volunteer on the e-learning for muslim
 
@@ -7,7 +6,7 @@ I'm a software engineer who is building technology to halal-nest. I’m looking 
 ```
 javascript: node & react
 python: django & tornado
-php: yii, ci, & laravel
+php: yii, ci & laravel
 typescript
 db : mongodb & mysql
 OS: linux

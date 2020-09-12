@@ -8,11 +8,7 @@ I'm a software engineer who is building technology to halal-nest. I’m looking 
 
 ### Github Stats
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrullah&layout=compact)](https://github.com/fajrullah)
-
-![fajrul's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars&show_icons=true&count_private=true)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fajrullah&repo=github-readme-stats)](https://github.com/fajrullah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrullah&layout=compact)](https://github.com/fajrullah) | ![fajrul's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars&show_icons=true&count_private=true)
 <!--
 **fajrullah/fajrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

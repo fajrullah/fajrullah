@@ -15,7 +15,7 @@ CI/CD
 docker
 REST API
 ```
-
+---
 #### Github Stats
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrullah&layout=compact)](https://github.com/fajrullah) | ![fajrul's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars&show_icons=true&count_private=true) |

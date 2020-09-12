@@ -1,7 +1,7 @@
 ### Hi I'm Fajrul
 ---
 
-I'm a software engineer who is building technology to halal-nest. I’m looking to collaborate on helping communities as volunteer and is currently helping as volunteer on The e-learning for muslim
+I'm a software engineer who is building technology to halal-nest. I’m looking to collaborate on helping communities as volunteer and is currently helping as volunteer on the e-learning for muslim
 
 #### Technologies
 ```

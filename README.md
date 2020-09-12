@@ -3,8 +3,12 @@
 
 I'm a software engineer who is building technology to halal-nest. I’m looking to collaborate on helping communities as volunteer and is currently helping as volunteer on The e-learning for muslim
 
+### Technologies
 ---
 
+### Github Stats
+---
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **fajrullah/fajrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

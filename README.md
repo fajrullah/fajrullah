@@ -9,7 +9,7 @@ I'm a software engineer who is building technology to halal-nest. I’m looking 
 ### Github Stats
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrullah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars&show_icons=true)
 <!--
 **fajrullah/fajrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

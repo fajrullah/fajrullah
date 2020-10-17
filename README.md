@@ -4,20 +4,7 @@
 I'm a software engineer who is building technology to halal-nest. I’m looking to collaborate on helping communities as volunteer and is currently helping as volunteer on the e-learning for muslim
 
 ---
-#### Technologies
-```
-javascript: node & react
-python: django & tornado
-php: yii, ci & laravel
-typescript
-db : mongodb & mysql
-OS: linux
-AWS S3
-CI/CD
-docker
-REST API
-```
----
+
 #### Github Stats
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrullah&layout=compact)](https://github.com/fajrullah) | ![fajrul's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars&show_icons=true&count_private=true) |

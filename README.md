@@ -1,5 +1,6 @@
+# Hi I'm Fajrul
 
-### Hi I'm Fajrul
+**`Digital Craftsman (Developer)`**
 
 Specializing as a JavaScript engineer in the dynamic field of software development, my focus centers on building and refining products, particularly within the consultant role. Engaging with clients who already have established products, I navigate the intricacies of this dynamic landscape with a keen understanding of how to enhance and optimize existing systems. Through a combination of technical expertise and adaptability, I consistently deliver solutions that align with client needs and surpass expectations in the fast-paced world of consultancy.
 

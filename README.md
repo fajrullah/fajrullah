@@ -35,13 +35,6 @@ Specializing as a Software engineer in the dynamic field of software development
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-<div align="center">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
-</div>
-
-<br />
-
 <h2>Table of Contents</h2>
 <ol>
     <li><a href="">Reseller Application Build with: Codeigniter, MySQL, Django</a></li>

@@ -4,6 +4,26 @@
 Specializing as a Software engineer in the dynamic field of software development, my focus centers on building and refining products, particularly within the consultant role. Engaging with clients who already have established products, I navigate the intricacies of this dynamic landscape with a keen understanding of how to enhance and optimize existing systems. Through a combination of technical expertise and adaptability, I consistently deliver solutions that align with client needs and surpass expectations in the fast-paced world of consultancy.
 
 ---
+
+<h2>My portfolio list</h2>
+<ol>
+    <li>
+        An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django
+        <ul>
+            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/reseller.png">Specific Reseller Part</a></li>
+        </ul>
+    </li>
+    <li>
+        Notification System for NOC Applications: PHP, vbs script, bash, NOC applications
+        <ul>
+            <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+        </ul>
+    </li>
+</ol>
+
+---
+
 ### Connect with me:
 <a href="https://www.linkedin.com/in/fajrullah-sejati">
   <img align="left" alt="linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -35,26 +55,6 @@ Specializing as a Software engineer in the dynamic field of software development
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
-
-
-<h2>My portfolio list</h2>
-<ol>
-    <li>
-        An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django
-        <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
-            <li><a href="reseller-applications/reseller.png">Specific Reseller Part</a></li>
-        </ul>
-    </li>
-    <li>
-        Notification System for NOC Applications: PHP, vbs script, bash, NOC applications
-        <ul>
-            <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
-        </ul>
-    </li>
-
-    
-</ol>
 
 #### Github Stats
 

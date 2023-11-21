@@ -41,11 +41,19 @@ Specializing as a Software engineer in the dynamic field of software development
 <ol>
     <li>
         An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django
-        <ol>
+        <ol type="A">
             <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
             <li><a href="reseller-applications/reseller.png">Specific Reseller Part</a></li>
         </ol>
     </li>
+    <li>
+        Notification System for NOC Applications: PHP, vbs script, bash, NOC applications
+        <ol type="A">
+            <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+        </ol>
+    </li>
+
+    
 </ol>
 
 #### Github Stats

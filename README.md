@@ -1,8 +1,9 @@
 # Hi I'm Fajrul
 
 **`Tech Artisan (Developer)`**
-
+<div id="aboutme">
 Specializing as a Software engineer in the dynamic field of software development, my focus centers on building and refining products, particularly within the consultant role. Engaging with clients who already have established products, I navigate the intricacies of this dynamic landscape with a keen understanding of how to enhance and optimize existing systems. Through a combination of technical expertise and adaptability, I consistently deliver solutions that align with client needs and surpass expectations in the fast-paced world of consultancy.
+</div>
 
 ---
 ### Connect with me:
@@ -40,6 +41,20 @@ Specializing as a Software engineer in the dynamic field of software development
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
     <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
 </div>
+
+<br />
+
+<h2>Table of Contents</h2>
+<ol>
+    <li><a href="#aboutme">About Me</a></li>
+    <li><a href="#getting-started">Getting started</a></li>
+    <li><a href="#request-icon">Requesting icon</a></li>
+    <li><a href="#contribute">Contributing</a></li>
+    <li><a href="#discord-server">Discord server</a></li>
+    <li><a href="#develop-vs-master"><code>develop</code> vs <code>master</code></a></li>
+    <li><a href="#stale-prs">Stale pull requests</a></li>
+    <li><a href="#build-yourself">Go build yourself</a></li>
+</ol>
 
 #### Github Stats
 

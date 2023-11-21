@@ -1,7 +1,7 @@
 
 ### Hi I'm Fajrul
 
-I'm a software engineer who is building technology to halal-nest. I’m looking to collaborate on helping communities as volunteer and is currently helping as volunteer on the e-learning for muslim
+Specializing as a JavaScript engineer in the dynamic field of software development, my focus centers on building and refining products, particularly within the consultant role. Engaging with clients who already have established products, I navigate the intricacies of this dynamic landscape with a keen understanding of how to enhance and optimize existing systems. Through a combination of technical expertise and adaptability, I consistently deliver solutions that align with client needs and surpass expectations in the fast-paced world of consultancy.
 
 ---
 

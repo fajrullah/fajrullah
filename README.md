@@ -15,6 +15,12 @@ Specializing as a Software engineer in the dynamic field of software development
         </ul>
     </li>
     <li>
+        Hitachi Games : Reactjs, framer motion, Lottie, Supabase
+        <ul>
+            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+        </ul>
+    </li>
+    <li>
         AAQUA : Java Spring
         <ul>
             <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>

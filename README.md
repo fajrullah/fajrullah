@@ -1,10 +1,11 @@
 # Hi I'm Fajrul
 
 **`Tech Artisan (Developer)`**
+
 Specializing as a Software engineer in the dynamic field of software development, my focus centers on building and refining products, particularly within the consultant role. Engaging with clients who already have established products, I navigate the intricacies of this dynamic landscape with a keen understanding of how to enhance and optimize existing systems. Through a combination of technical expertise and adaptability, I consistently deliver solutions that align with client needs and surpass expectations in the fast-paced world of consultancy.
+<br />
 
 ---
-
 <h2>My portfolio list</h2>
 <ol>
     <li>
@@ -56,7 +57,9 @@ Specializing as a Software engineer in the dynamic field of software development
 
 <br />
 
+
 #### Github Stats
+
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajrullah&layout=compact)](https://github.com/fajrullah) | ![fajrul's github stats](https://github-readme-stats.vercel.app/api?username=fajrullah&hide=contribs,prs,stars&show_icons=true&count_private=true) |
 | ------------- |:-------------:|

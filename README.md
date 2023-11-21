@@ -9,9 +9,14 @@ Specializing as a Software engineer in the dynamic field of software development
 <h2>My portfolio list</h2>
 <ol>
     <li>
-        Online-pajak : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring
+        Features in the Online Pajak Platform : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Dashboard</a></li>
+            <li><a href="reseller-applications/full-flow.png">Global Settings</a></li>
+            <li><a href="reseller-applications/full-flow.png">Header</a></li>
+            <li><a href="reseller-applications/full-flow.png">Onboarding</a></li>
+            <li><a href="reseller-applications/full-flow.png">Authorization (SignIn/SignUp)</a></li>
+            <li><a href="reseller-applications/full-flow.png">Notifications</a></li>
         </ul>
     </li>
     <li>
@@ -21,13 +26,13 @@ Specializing as a Software engineer in the dynamic field of software development
         </ul>
     </li>
     <li>
-        AAQUA : Java Spring
+        Chrysaule : Reactjs
         <ul>
             <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
         </ul>
     </li>
-    <li>
-        Chrysaule : Reactjs
+     <li>
+        AAQUA : Java Spring
         <ul>
             <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
         </ul>

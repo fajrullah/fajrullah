@@ -57,6 +57,7 @@ Specializing as a Software engineer in the dynamic field of software development
 
 <br />
 
+---
 
 #### Github Stats
 

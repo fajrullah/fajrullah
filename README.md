@@ -37,9 +37,15 @@ Specializing as a Software engineer in the dynamic field of software development
 <br />
 
 
-<h2>Table of Contents</h2>
+<h2>My portfolio list</h2>
 <ol>
-    <li><a href="reseller-applications/full-flow.png">Reseller Application Build with: Codeigniter, MySQL, Django</a></li>
+    <li>
+        An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django
+        <ul>
+            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/reseller.png">Reseller</a></li>
+        </ul>
+    </li>
 </ol>
 
 #### Github Stats

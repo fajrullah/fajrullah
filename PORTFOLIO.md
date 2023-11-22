@@ -59,7 +59,7 @@
     <li>
         WhatsHalal’s Ourpasar : Flutter, Nodejs (Express), S3 Aws, Postgres, CI/CD
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="https://play.google.com/store/apps/details?id=com.ourpasar.opconsumerapp">Check on the Play Store</a></li>
         </ul>
     </li>

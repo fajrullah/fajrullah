@@ -89,7 +89,8 @@
     <li>
         After sales service system: Yii, Nodejs (Express), MySQL <strong>(unable to share detailed visuals for Dashboard)</strong> 
         <ul>
-            <li><a href="notification-system-noc-applications/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="after-sales-system/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="after-sales-system/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="https://care.alqolam.com">Go to web</a></li>
         </ul>
     </li>

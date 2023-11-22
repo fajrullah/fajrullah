@@ -5,9 +5,7 @@
 Specializing as a Software engineer in the dynamic field of software development, my focus centers on building and refining products, particularly within the consultant role. Engaging with clients who already have established products, I navigate the intricacies of this dynamic landscape with a keen understanding of how to enhance and optimize existing systems. Through a combination of technical expertise and adaptability, I consistently deliver solutions that align with client needs and surpass expectations in the fast-paced world of consultancy.
 <br />
 
----
-# My portfolio
-<a href="lists.md">Link</a>
+<a href="lists.md">See my portfolio</a>
 ---
 
 ### Connect with me:

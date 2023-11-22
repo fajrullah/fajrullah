@@ -83,10 +83,11 @@
         <ul>
             <li><a href="reseller-applications/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
-            <li><a href="reseller-applications/reseller.png">Specific Reseller Part</a></li>
-            <li><a href="reseller-applications/sales.png">Sales can absent & bonuses</a></li>
+            <li><a href="reseller-applications/reseller.png">Specific reseller part</a></li>
+            <li><a href="reseller-applications/sales.png">Attendance and Bonuses for Sales</a></li>
             <li><a href="reseller-applications/accounting.png">Integrate with Accounting & Tax Application</a></li>
-            <li><a href="https://retail.alqolam.com/">Go to web</a></li>
+            <li><a href="https://www.mitrapedia.com/">Go to catalog web</a></li>
+            <li><a href="https://retail.alqolam.com/">Go to admin web</a></li>
         </ul>
     </li>
     <li>

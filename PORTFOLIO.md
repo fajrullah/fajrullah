@@ -57,9 +57,10 @@
         </ul>
     </li>
     <li>
-        Analytics dashboard: React, Django, Nodejs (Express), MySQL
+        Analytics dashboard: React, Django, Nodejs (Express), MySQL <strong>(unable to share detailed visuals for Dashboard)</strong>
         <ul>
             <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="https://sh.alqolam.com/#/">Go to web</a></li>
         </ul>
     </li>
     <li>

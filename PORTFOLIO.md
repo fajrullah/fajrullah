@@ -51,9 +51,16 @@
         </ul>
     </li>
     <li>
-        WhatsHalal’s Assurance and Traceability Management System (ATeMS) : Reactjs, Nodejs (Express), S3 Aws, mongodb, CI/CD
+        WhatsHalal’s Assurance and Traceability Management System (ATeMS) : Reactjs, Nodejs (Express), S3 Aws, mongodb, CI/CD <strong>(Unfortunately, the company associated with this project faced financial challenges and ultimately went bankrupt. As a result, the application did not launch as planned, and I am unable to provide a live demonstration.)</strong>
         <ul>
             <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+        </ul>
+    </li>
+    <li>
+        WhatsHalal’s Ourpasar : Flutter, Nodejs (Express), S3 Aws, Postgres, CI/CD
+        <ul>
+            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="https://play.google.com/store/apps/details?id=com.ourpasar.opconsumerapp">Check on the Play Store</a></li>
         </ul>
     </li>
     <li>

@@ -78,7 +78,8 @@
         </ul>
     </li>
     <li>
-        Customer service system: Yii, Nodejs (Express), MySQL
+        Customer service system: Yii, Nodejs (Express), MySQL (https://care.alqolam.com/)
+        ### unable to share detailed visuals
         <ul>
             <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
         </ul>

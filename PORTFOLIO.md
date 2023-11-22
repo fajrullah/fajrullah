@@ -1,6 +1,6 @@
 
 ---
-<h2>My portfolio list</h2>
+<h2>My portfolio</h2>
 <ol>
     <li>
         Features in the Online Pajak Platform : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring

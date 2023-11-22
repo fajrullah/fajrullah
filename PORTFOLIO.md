@@ -1,6 +1,7 @@
 
 ---
 <h2>My portfolio</h2>
+<h3>Please note that some projects in my portfolio are excluded due to confidentiality agreements. I am unable to share detailed visuals or code related to these projects.</h3>
 <ol>
     <li>
         Features in the Online Pajak Platform : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring

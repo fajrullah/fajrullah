@@ -84,6 +84,7 @@
         Notification System for NOC Applications: PHP, vbs script, bash, NOC applications <strong>(Due to the sensitive nature of my work with government institutions, I am unable to provide detailed information publicly)</strong> 
         <ul>
             <li><a href="notification-system-noc-applications/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
         </ul>
     </li>
     <li>

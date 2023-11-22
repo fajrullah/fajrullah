@@ -63,25 +63,26 @@
         </ul>
     </li>
     <li>
-        An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django
+        An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django <strong>(unable to share detailed visuals for Dashboard)</strong>
         <ul>
             <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
             <li><a href="reseller-applications/reseller.png">Specific Reseller Part</a></li>
             <li><a href="reseller-applications/reseller.png">Sales can absent & bonuses</a></li>
             <li><a href="reseller-applications/reseller.png">Integrate with Accounting & Tax Application</a></li>
+            <li><a href="https://retail.alqolam.com/">Go to web</a></li>
         </ul>
     </li>
     <li>
-        Notification System for NOC Applications: PHP, vbs script, bash, NOC applications
+        Notification System for NOC Applications: PHP, vbs script, bash, NOC applications <strong>(Due to the sensitive nature of my work with government institutions, I am unable to provide detailed information publicly)</strong> 
         <ul>
             <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
         </ul>
     </li>
     <li>
-        Customer service system: Yii, Nodejs (Express), MySQL (https://care.alqolam.com/)
-        ### unable to share detailed visuals
+        After sales service system: Yii, Nodejs (Express), MySQL <strong>(unable to share detailed visuals for Dashboard)</strong> 
         <ul>
             <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="https://care.alqolam.com">Go to web</a></li>
         </ul>
     </li>
 </ol>

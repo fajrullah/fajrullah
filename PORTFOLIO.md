@@ -17,43 +17,43 @@
     <li>
         Hitachi Games : Reactjs, framer motion, Lottie, Supabase
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         Chrysaule : Reactjs
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
      <li>
         AAQUA : Java Spring
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         Vouch LiveChat Helpdesk : Reactjs
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         ChatBot Management Dashboard : Reactjs, Nodejs (Express), Jenkins, mongodb
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         Vouch ChatBot : Vuejs
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         WhatsHalal’s Assurance and Traceability Management System (ATeMS) : Reactjs, Nodejs (Express), S3 Aws, mongodb, CI/CD <strong>(Unfortunately, the company associated with this project faced financial challenges and ultimately went bankrupt. As a result, the application did not launch as planned, and I am unable to provide a live demonstration.)</strong>
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
@@ -66,14 +66,14 @@
     <li>
         Analytics dashboard: React, Django, Nodejs (Express), MySQL <strong>(unable to share detailed visuals for Dashboard)</strong>
         <ul>
-            <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="https://sh.alqolam.com/#/">Go to web</a></li>
         </ul>
     </li>
     <li>
         An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django <strong>(unable to share detailed visuals for Dashboard)</strong>
         <ul>
-            <li><a href="reseller-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="reseller-applications/reseller.png">Specific Reseller Part</a></li>
             <li><a href="reseller-applications/reseller.png">Sales can absent & bonuses</a></li>
             <li><a href="reseller-applications/reseller.png">Integrate with Accounting & Tax Application</a></li>
@@ -83,13 +83,13 @@
     <li>
         Notification System for NOC Applications: PHP, vbs script, bash, NOC applications <strong>(Due to the sensitive nature of my work with government institutions, I am unable to provide detailed information publicly)</strong> 
         <ul>
-            <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         After sales service system: Yii, Nodejs (Express), MySQL <strong>(unable to share detailed visuals for Dashboard)</strong> 
         <ul>
-            <li><a href="notification-system-noc-applications/full-flow.png">Full Flow</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="https://care.alqolam.com">Go to web</a></li>
         </ul>
     </li>

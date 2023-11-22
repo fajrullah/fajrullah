@@ -82,10 +82,10 @@
         An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django <strong>(unable to share detailed visuals for Dashboard)</strong>
         <ul>
             <li><a href="reseller-applications/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="reseller-applications/full-flow.png">Explore the Workflow of the Application</a></li>
-            <li><a href="reseller-applications/reseller.png">Specific reseller part</a></li>
-            <li><a href="reseller-applications/sales.png">Attendance and Bonuses for Sales</a></li>
-            <li><a href="reseller-applications/accounting.png">Integrate with Accounting & Tax Application</a></li>
+            <li><a href="reseller-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+            <li><a href="reseller-applications/reseller.png">FC: Specific reseller part</a></li>
+            <li><a href="reseller-applications/sales.png">FC: Attendance and Bonuses for Sales</a></li>
+            <li><a href="reseller-applications/accounting.png">FC: Integrate with Accounting & Tax Application</a></li>
             <li><a href="https://www.mitrapedia.com/">See our works catalog web</a></li>
             <li><a href="https://retail.alqolam.com/">See our works admin web</a></li>
         </ul>
@@ -93,15 +93,15 @@
     <li>
         Notification System for NOC Applications: PHP, vbs script, bash, NOC applications <strong>(Due to the sensitive nature of my work with government institutions, I am unable to provide detailed information publicly)</strong> 
         <ul>
-            <li><a href="notification-system-noc-applications/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>
         After sales service system: Yii, Nodejs (Express), MySQL <strong>(unable to share detailed visuals for Dashboard)</strong> 
         <ul>
-            <li><a href="after-sales-system/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="after-sales-system/architecture-design.png">Architectural Overview of the Application</a></li>
+            <li><a href="after-sales-system/full-flow.png">FC: Explore the Workflow of the Application</a></li>
             <li><a href="https://care.alqolam.com">See our works</a></li>
         </ul>
     </li>

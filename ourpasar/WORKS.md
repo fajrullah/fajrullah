@@ -1,9 +1,9 @@
-![asd](ourpasar/images/ourpasar-stripe-1.png)
+![asd](/images/ourpasar-stripe-1.png)
 <table>
   <tr>
     <td align="center">
-      <a href="ourpasar/images/ourpasar-stripe-1.png" target="_blank">
-        <img src="ourpasar/images/ourpasar-stripe-1.png" alt="OurPasar Splash - Product Screen" width="182" height="317">
+      <a href="/images/ourpasar-stripe-1.png" target="_blank">
+        <img src="/images/ourpasar-stripe-1.png" alt="OurPasar Splash - Product Screen" width="182" height="317">
       </a>
       <br>
       OurPasar Splash - Product Screen

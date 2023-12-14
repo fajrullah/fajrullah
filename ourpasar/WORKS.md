@@ -1,4 +1,4 @@
-
+![asd](ourpasar/images/ourpasar-stripe-1.png)
 <table>
   <tr>
     <td align="center">

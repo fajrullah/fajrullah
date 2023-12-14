@@ -64,10 +64,9 @@
         </ul>
     </li>
     <li>
-        WhatsHalal’s Ourpasar : Flutter, Nodejs (Express), S3 Aws, Postgres, CI/CD
+        WhatsHalal’s Ourpasar : Stripe - CC, Flutter, Nodejs (Express), S3 Aws, Postgres, CI/CD
         <ul>
-            <li><a href="ourpasar/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="ourpasar/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="ourpasar/architecture-design.png">See our works</a></li>
             <li><a href="https://play.google.com/store/apps/details?id=com.ourpasar.opconsumerapp">Check on the Play Store</a></li>
         </ul>
     </li>

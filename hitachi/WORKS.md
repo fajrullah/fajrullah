@@ -1,4 +1,4 @@
-
+# Mobile View Hitachi Games
 <table>
   <tr>
     <td align="center">
@@ -72,7 +72,8 @@
     </td>
   </tr>
 </table>
----
+
+# Dekstop View Hitachi Games
 <table>
   <tr>
     <td align="center">

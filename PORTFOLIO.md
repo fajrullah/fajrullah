@@ -5,7 +5,9 @@
 <h3>Please note that some projects in my portfolio are excluded due to confidentiality agreements. I am unable to share detailed visuals or code related to these projects.</h3>
 <ol>
     <li>
-        Features in the Online Pajak Platform : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring
+        <h4> Features in the Online Pajak Platform : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring.</h4>
+
+> **Desc:** Online-Pajak.com is a tax compliance platform. It provides online tax-related services and software solutions to help individuals and businesses manage their tax obligations more efficiently. 
         <ul>
             <li><a href="op/full-flow.png">Dashboard</a></li>
             <li><a href="op/full-flow.png">Global Settings</a></li>
@@ -16,7 +18,9 @@
         </ul>
     </li>
     <li>
-        Hitachi Games : Reactjs, framer motion, Lottie, Supabase
+        <h4>Hitachi Games : Reactjs, framer motion, Lottie, Supabase</h4>
+
+> **Desc:** Something
         <ul>
             <li><a href="hitachi/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="hitachi/WORKS.md">See our works</a></li>

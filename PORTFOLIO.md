@@ -41,8 +41,7 @@
 
 > **Description:** Aaqua is a Singapore platform that aims to connect like-minded people everywhere. It was created to enable global users to share their passions through groups built MAGIC: Music, Arts, Games, Interests, and Community.
         <ul>
-            <li><a href="vouch/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="aaqua/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="aaqua/architecture-design.png">Architectural Overview of the Application</a></li>
         </ul>
     </li>
     <li>

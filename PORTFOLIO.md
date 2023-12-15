@@ -18,6 +18,7 @@
     <li>
         Hitachi Games : Reactjs, framer motion, Lottie, Supabase
         <ul>
+            <li><a href="hitachi/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="hitachi/WORKS.md">See our works</a></li>
         </ul>
     </li>

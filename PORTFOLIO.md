@@ -75,7 +75,7 @@
     <li>
         <h4>WhatsHalal’s Assurance and Traceability Management System (ATeMS) : Reactjs, Nodejs (Express), S3 Aws, mongodb, CI/CD </h4><strong>(Unfortunately, the company associated with this project faced financial challenges and ultimately went bankrupt. As a result, the application did not launch as planned, and I am unable to provide a live demonstration.)</strong>
 
-> **Description:** Something
+> **Description:** WhatsHalal's Assurance and Traceability Management System (ATeMS) is an agnostic platform containing global Halal standards, allowing companies to make quick and concise decisions to enter any halal market internationally with information of its products and ingredients.
         <ul>
             <li><a href="atems/full-flow.png">Explore the Workflow of the Application</a></li>
             <li><a href="atems/architecture-design.png">Architectural Overview of the Application</a></li>
@@ -84,7 +84,7 @@
     <li>
         <h4>WhatsHalal’s Ourpasar : Stripe - CC, Flutter, Nodejs (Express), S3 AWS, Postgres, CI/CD</h4>
 
-> **Description:** Something
+> **Description:** OurPasar is an app that delivers fresh groceries right to your doorstep. Everything your family needs to enjoy a healthier meal is definitely available in the OurPasar app.
         <ul>
             <li><a href="ourpasar/WORKS.md">See our works</a></li>
             <li><a href="https://play.google.com/store/apps/details?id=com.ourpasar.opconsumerapp">Check on the Play Store</a></li>

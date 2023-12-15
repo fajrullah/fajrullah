@@ -8,6 +8,26 @@
       <br>
       Hitachi Games - Home Screen
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/desktop-7.png" target="_blank">
+        <img src="images/desktop-7.png" alt="OurPasar Splash - Product Screen" width="288" height="162">
+      </a>
+      <br>
+      Hitachi Games - Public Live Score Screen
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="images/desktop-1.png" target="_blank">
+        <img src="images/desktop-1.png" alt="OurPasar Splash - Product Screen" width="288" height="162">
+      </a>
+      <br>
+      Hitachi Games - Home Screen
+    </td>
     <td align="center">
       <a href="images/desktop-2.png" target="_blank">
         <img src="images/desktop-2.png" alt="OurPasar Splash - Product Screen" width="288" height="162">
@@ -63,3 +83,4 @@
     </td>
   </tr>
 </table>
+

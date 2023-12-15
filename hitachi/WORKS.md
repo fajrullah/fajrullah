@@ -2,32 +2,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="images/ourpasar-stripe-1.png" target="_blank">
-        <img src="images/ourpasar-stripe-1.png" alt="OurPasar Splash - Product Screen" width="182" height="317">
+      <a href="images/desktop-1.png" target="_blank">
+        <img src="images/desktop-1.png" alt="OurPasar Splash - Product Screen" width="288" height="162">
       </a>
       <br>
       OurPasar Splash - Product Screen
     </td>
-    <td align="center">
-      <a href="images/ourpasar-stripe-2.png" target="_blank">
-        <img src="images/ourpasar-stripe-2.png" alt="Landing Screen, by Categories" width="182" height="317">
-      </a>
-      <br>
-      Landing Screen, by Categories
-    </td>
      <td align="center">
-      <a href="images/ourpasar-stripe-3.png" target="_blank">
-        <img src="images/ourpasar-stripe-3.png" alt="OurPasar Package" width="182" height="317">
+      <a href="images/desktop-1.png" target="_blank">
+        <img src="images/desktop-1.png" alt="OurPasar Splash - Product Screen" width="288" height="162">
       </a>
       <br>
-      OurPasar Package
-    </td>
-    <td align="center">
-      <a href="images/ourpasar-stripe-4.png" target="_blank">
-        <img src="images/ourpasar-stripe-4.png" alt="OurPasar Product Highlights" width="182" height="317">
-      </a>
-      <br>
-       OurPasar Product Highlights
+      OurPasar Splash - Product Screen
     </td>
   </tr>
  <tr>

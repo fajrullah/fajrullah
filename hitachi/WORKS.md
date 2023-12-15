@@ -39,6 +39,38 @@
       Hitachi Games - Incorrect Question (Mobile)
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <a href="images/mobile-4.png" target="_blank">
+        <img src="images/mobile-4.png" alt="OurPasar Splash - Product Screen" width="180" height="320">
+      </a>
+      <br>
+      Hitachi Games - Personalization Screen (Mobile)
+    </td>
+    <td align="center">
+      <a href="images/mobile-5.png" target="_blank">
+        <img src="images/mobile-5.png" alt="OurPasar Splash - Product Screen" width="180" height="320">
+      </a>
+      <br>
+      Hitachi Games -  Personal Contribution (Mobile)
+    </td>
+     <td align="center">
+      <a href="images/mobile-7.png" target="_blank">
+        <img src="images/mobile-7.png" alt="OurPasar Splash - Product Screen" width="180" height="320">
+      </a>
+      <br>
+      Hitachi Games - Article/Case Studies (Mobile)
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <a href="images/mobile-6.png" target="_blank">
+        <img src="images/mobile-6.png" alt="OurPasar Splash - Product Screen" width="180" height="320">
+      </a>
+      <br>
+      Hitachi Games - Public Live Score Screen (Mobile)
+    </td>
+  </tr>
 </table>
 <table>
   <tr>

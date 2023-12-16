@@ -3,7 +3,7 @@
   <tr>
     <td align="center">
       <a href="images/header-1.png" target="_blank">
-        <img src="images/header-1.png" alt="Online Pajak - Product Screen" width="288" height="162">
+        <img src="images/header-1.png" alt="Online Pajak - Product Screen">
       </a>
       <br>
       Online-Pajak: Header
@@ -12,7 +12,7 @@
   <tr>
      <td align="center">
       <a href="images/header-3.png" target="_blank">
-        <img src="images/header-3.png" alt="Online Pajak - Product Screen" width="182" height="317">
+        <img src="images/header-3.png" alt="Online Pajak - Product Screen" >
       </a>
       <br>
       Online-Pajak: Header Dropdown

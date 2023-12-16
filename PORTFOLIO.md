@@ -27,8 +27,7 @@
 
 > **Description:** Introducing Gauld.com, trading and investment platforms, your advanced gateway to strategic wealth management through the seamless integration of physical gold and cash investments.
         <ul>
-            <li><a href="chrysaule/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="chrysaule/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="chrysaule/architecture-design.png">Trading: Architectural Overview</a></li>
             <li><a href="https://gauld.com/">Go to web</a></li>
         </ul>
     </li>

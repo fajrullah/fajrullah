@@ -1,7 +1,8 @@
 
 ---
 <h1>Professional Work Samples / Work Portfolio</h1>
-<h3>Please note that some projects in my portfolio are excluded due to confidentiality agreements. I am unable to share detailed visuals or code related to these projects.</h3>
+
+> **Note:**<h5>Please note that some projects in my portfolio are excluded due to confidentiality agreements. I am unable to share detailed visuals or code related to these projects.</h3> 
 <ol>
     <li>
         <h4> Features in the Online Pajak Platform : Vuejst, Reactjs, Nodejs (Express), mongodb, Postgres, Java spring.</h4>

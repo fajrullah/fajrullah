@@ -1,7 +1,6 @@
 
 ---
-<h1>Work in Progress: you will find some of informations is not related</h1>
-<h2>Professional Work Samples / Work Portfolio</h2>
+<h1>Professional Work Samples / Work Portfolio</h1>
 <h3>Please note that some projects in my portfolio are excluded due to confidentiality agreements. I am unable to share detailed visuals or code related to these projects.</h3>
 <ol>
     <li>
@@ -40,29 +39,17 @@
         </ul>
     </li>
     <li>
-        <h4>Vouch ChatBot : Vuejs</h4>
+        <h4>Vouch ChatBot</h4>
 
 > **Description:** Vouch Concierge leverages state-of-the-art chatbot technology to automate routine tasks and provide instant responses, even outside regular business hours.
+        <h5>Features including: </h5>
+        <ul>
+            <li>ChatBot: Vuejs</li>
+            <li>ChatBot Management Dashboard : Reactjs, Nodejs (Express), Jquery, Jenkins, mongodb</li>
+            <li>LiveChat Helpdesk : Reactjs</li>
+        </ul>
         <ul>
             <li><a href="https://www.youtube.com/watch?v=Uv7L56E1TVg">See the products</a></li>
-        </ul>
-    </li>
-    <li>
-        <h4>ChatBot Management Dashboard : Reactjs, Nodejs (Express), Jenkins, mongodb</h4>
-
-> **Description:** Vouch Concierge introduces the Dashboard Chaboat, a centralized hub for managing and monitoring customer interactions. This comprehensive dashboard offers a 360-degree view of customer engagements, chat histories, and key metrics.
-        <ul>
-            <li><a href="vouch/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="vouch/full-flow.png">Explore the Workflow of the Application</a></li>
-        </ul>
-    </li>
-    <li>
-        <h4>Vouch LiveChat Helpdesk : Reactjs</h4>
-
-> **Description:** Vouch Concierge redefines customer support with an innovative blend of personalized assistance and cutting-edge technology. Our LiveChat feature brings real-time communication to the forefront, connecting customers with knowledgeable agents who are ready to address inquiries and provide solutions instantly.
-        <ul>
-            <li><a href="vouch/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="vouch/full-flow.png">Explore the Workflow of the Application</a></li>
         </ul>
     </li>
     <li>

@@ -40,6 +40,14 @@
         </ul>
     </li>
     <li>
+        <h4>Vouch ChatBot : Vuejs</h4>
+
+> **Description:** Vouch Concierge leverages state-of-the-art chatbot technology to automate routine tasks and provide instant responses, even outside regular business hours.
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=Uv7L56E1TVg">See the products</a></li>
+        </ul>
+    </li>
+    <li>
         <h4>Vouch LiveChat Helpdesk : Reactjs</h4>
 
 > **Description:** Vouch Concierge redefines customer support with an innovative blend of personalized assistance and cutting-edge technology. Our LiveChat feature brings real-time communication to the forefront, connecting customers with knowledgeable agents who are ready to address inquiries and provide solutions instantly.
@@ -52,15 +60,6 @@
         <h4>ChatBot Management Dashboard : Reactjs, Nodejs (Express), Jenkins, mongodb</h4>
 
 > **Description:** Vouch Concierge introduces the Dashboard Chaboat, a centralized hub for managing and monitoring customer interactions. This comprehensive dashboard offers a 360-degree view of customer engagements, chat histories, and key metrics.
-        <ul>
-            <li><a href="vouch/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="vouch/full-flow.png">Explore the Workflow of the Application</a></li>
-        </ul>
-    </li>
-    <li>
-        <h4>Vouch ChatBot : Vuejs</h4>
-
-> **Description:** Vouch Concierge leverages state-of-the-art chatbot technology to automate routine tasks and provide instant responses, even outside regular business hours.
         <ul>
             <li><a href="vouch/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="vouch/full-flow.png">Explore the Workflow of the Application</a></li>

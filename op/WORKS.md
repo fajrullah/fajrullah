@@ -1,3 +1,35 @@
+### Header and Global Settings
+<table>
+  <tr>
+    <td align="center">
+      <a href="images/header-1.png" target="_blank">
+        <img src="images/header-1.png" alt="Online Pajak - Product Screen" width="288" height="162">
+      </a>
+      <br>
+      Online-Pajak: Header
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <a href="images/header-3.png" target="_blank">
+        <img src="images/header-3.png" alt="Online Pajak - Product Screen" width="182" height="317">
+      </a>
+      <br>
+      Online-Pajak: Header Dropdown
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="images/header-2.png" target="_blank">
+        <img src="images/header-2.png" alt="Online Pajak - Product Screen" width="288" height="162">
+      </a>
+      <br>
+      Online-Pajak: Settings
+    </td>
+  </tr>
+</table>
+
+
 ### Authentication
 <table>
   <tr>

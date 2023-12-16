@@ -37,7 +37,7 @@
         </ul>
     </li>
      <li>
-        <h4>AAQUA : Java Spring, DynamoDB, Cucumber, Netflix DGS</h4>
+        <h4>AAQUA : Java Spring, DynamoDB, Cucumber, Netflix DGS, Aws Cognito</h4>
 
 > **Description:** Aaqua is a Singapore platform that aims to connect like-minded people everywhere. It was created to enable global users to share their passions through groups built MAGIC: Music, Arts, Games, Interests, and Community.
         <ul>
@@ -76,7 +76,7 @@
 
 > **Description:** WhatsHalal's Assurance and Traceability Management System (ATeMS) is an agnostic platform containing global Halal standards, allowing companies to make quick and concise decisions to enter any halal market internationally with information of its products and ingredients.
         <ul>
-            <li><a href="atems/full-flow.png">Explore the Workflow of the Application</a></li>
+            <li><a href="atems/WORKS.md">See our works</a></li>
             <li><a href="atems/architecture-design.png">Architectural Overview of the Application</a></li>
         </ul>
     </li>

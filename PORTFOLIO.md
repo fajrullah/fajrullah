@@ -9,12 +9,8 @@
 
 > **Description:** Online-Pajak.com is a tax compliance platform. It provides online tax-related services and software solutions to help individuals and businesses manage their tax obligations more efficiently. 
         <ul>
-            <li><a href="op/full-flow.png">Dashboard</a></li>
-            <li><a href="op/full-flow.png">Global Settings</a></li>
-            <li><a href="op/full-flow.png">Header</a></li>
-            <li><a href="op/full-flow.png">Onboarding</a></li>
-            <li><a href="op/full-flow.png">Authorization (SignIn/SignUp)</a></li>
-            <li><a href="op/full-flow.png">Notifications</a></li>
+            <li><a href="op/WORKS.md">See our works</a></li>
+            <li><a href="op/full-flow.png">Architectural Overview of the Application</a></li>
         </ul>
     </li>
     <li>

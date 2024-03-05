@@ -45,7 +45,7 @@ Specializing as a Software engineer in the dynamic field of software development
 #### Github Stats
 
 
-| [![Top Langs](https://github-readme-stats-nu-lilac-83.vercel.app/api/top-langs/?username=fajrullah&langs_count=10&hide_progress=true)](https://github.com/fajrullah/github-readme-stats) | ![fajrul's GitHub stats](https://github-readme-stats-nu-lilac-83.vercel.app/api?username=fajrullah&show=prs_merged,prs_merged_percentage&show_icons=true&theme=shades-of-purple) | 
+| [![Top Langs](https://github-readme-stats-nu-lilac-83.vercel.app/api/top-langs/?username=fajrullah&langs_count=10&hide_progress=true)](https://github.com/fajrullah) | ![fajrul's GitHub stats](https://github-readme-stats-nu-lilac-83.vercel.app/api?username=fajrullah&show=prs_merged,prs_merged_percentage&show_icons=true&theme=shades-of-purple) | 
 | ------------- |:-------------:|
 
 <!--

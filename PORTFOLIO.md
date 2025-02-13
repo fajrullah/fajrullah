@@ -104,6 +104,36 @@
             <li><a href="after-sales-system/full-flow.png">FC: Explore the Workflow of the Application</a></li>
             <li><a href="https://care.alqolam.com">See our works</a></li>
         </ul>
+
+> **Key Features:** The After Sales Service System streamlines the service claim process, providing customers and technicians with an efficient and transparent service experience.
+        <ul>
+            <li>Service claim portal for customers to submit and track warranty claims.</li>
+            <li>Real-time status updates on service progress, tracking, and costs.</li>
+            <li>Integrated invoice generation system for completed services.</li>
+            <li>Technician feedback system to report issues, provide updates, and suggest improvements.</li>
+            <li>Comprehensive service history and documentation for each customer.</li>
+            <li>Automated notifications via email or SMS for service updates and reminders.</li>
+            <li>Role-based access control for customers, technicians, and service managers.</li>
+        </ul>
+
+> **Challenges & Solutions:** Developing the After Sales Service System required continuous collaboration with the service team and overcoming key challenges.
+        <ul>
+            <li>**Challenge:** Aligning the system with the needs of the service team.<br>**Solution:** Conducted regular meetings with the service team for feedback and requirement gathering.</li>
+            <li>**Challenge:** Ensuring smooth deployment with minimal disruption.<br>**Solution:** Adopted an iterative deployment strategy, releasing features incrementally.</li>
+            <li>**Challenge:** Managing bugs and feature requests efficiently.<br>**Solution:** Implemented a feedback loop where technicians could report bugs directly within the system.</li>
+            <li>**Challenge:** Providing accurate and timely service tracking.<br>**Solution:** Integrated real-time tracking features using Node.js and MySQL for fast data retrieval.</li>
+            <li>**Challenge:** Automating financial processes like invoicing.<br>**Solution:** Built an automated invoice generation system linked to service records and pricing.</li>
+        </ul>
+
+> **Project Development Journey:** The development of the After Sales Service System followed an agile approach with close collaboration and continuous improvement.
+        <ul>
+            <li><strong>Planning:</strong> Worked closely with the service team to understand their workflow and customer needs.</li>
+            <li><strong>Design:</strong> Designed a user-friendly portal for customers and an intuitive dashboard for technicians.</li>
+            <li><strong>Implementation:</strong> Developed the system using Yii for the portal, Node.js (Express) for backend services, and MySQL for data management.</li>
+            <li><strong>Testing:</strong> Involved technicians in testing phases to gather feedback and identify bugs.</li>
+            <li><strong>Deployment:</strong> Adopted incremental deployment, rolling out features gradually and refining them based on user feedback.</li>
+            <li><strong>Maintenance:</strong> Provided ongoing support, bug fixes, and feature enhancements based on technician and customer feedback.</li>
+        </ul>
     </li>
      <li>
         <h4>Notification System for NOC Applications: PHP, vbs script, bash, NOC applications </h4><strong>(Due to the sensitive nature of my work with government institutions, I am unable to provide detailed information publicly)</strong> 

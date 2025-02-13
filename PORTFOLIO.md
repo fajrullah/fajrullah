@@ -169,7 +169,7 @@
             <li><strong>Feedback and Iteration:</strong> Collected user feedback post-launch, leading to feature enhancements and bug fixes, including platform-specific improvements.</li>
         </ul>
   </li>
-    <li>
+  <li>
         <h4>Analytics dashboard: React, Django, Nodejs (Express) </h4><strong>(unable to share detailed visuals for Dashboard)</strong>
 
 > **Description:** An advanced analytics dashboard, meticulously designed, ensures a dynamic, real-time, and user-friendly experience, providing unparalleled insights into company products.
@@ -216,7 +216,6 @@
             <li><strong>Scalability:</strong> Ensured the dashboard can handle thousands of Smart Hafiz devices concurrently by optimizing backend architecture and cloud infrastructure.</li>
             <li><strong>Continuous Improvement:</strong> Regularly updated the platform with new features such as advanced filtering, content personalization, and analytics improvements.</li>
         </ul>
-
     </li>
     <li>
         <h4>An e-commerce platform tailored exclusively for resellers : Codeigniter, MySQL, Django </h4><strong>(unable to share detailed visuals for Dashboard)</strong>

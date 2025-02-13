@@ -113,7 +113,28 @@
             <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
         </ul>
+
+> **Key Features
+:** Designed to enhance communication efficiency and response times, this robust system is your key to seamless NOC application management.
+        <ul>
+            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+        </ul>
+
+> **Challenges & Solutions
+:** Designed to enhance communication efficiency and response times, this robust system is your key to seamless NOC application management.
+        <ul>
+            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+        </ul>
+
+> **Project Development Journey:** Designed to enhance communication efficiency and response times, this robust system is your key to seamless NOC application management.
+        <ul>
+            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
+            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+        </ul>
     </li>
 </ol>
+
 
 ---

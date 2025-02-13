@@ -61,6 +61,39 @@
             <li><a href="atems/WORKS.md">See our works</a></li>
             <li><a href="atems/architecture-design.png">Architectural Overview of the Application</a></li>
         </ul>
+        
+> **Key Features:** 
+        <ul>
+            <li>Interactive front-end built with React.js for seamless user experience.</li>
+            <li>Robust backend using Node.js (Express) for scalable and fast operations.</li>
+            <li>Cloud storage via AWS S3 for secure document and data management.</li>
+            <li>MongoDB for flexible, scalable database management of products and ingredients.</li>
+            <li>CI/CD pipelines enabling efficient development, testing, and deployment workflows.</li>
+            <li>Real-time ingredient tracking and certification verification.</li>
+            <li>Integration with third-party certification bodies for automated compliance checks.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Ensuring real-time traceability for large datasets.<br>
+                <strong>Solution:</strong> Utilized MongoDB's flexible schema and indexing for faster querying and data updates.</li>
+            <li><strong>Challenge:</strong> Managing different Halal standards across countries.<br>
+                <strong>Solution:</strong> Built a dynamic standards mapping system to quickly adapt to varying global standards.</li>
+            <li><strong>Challenge:</strong> Securing sensitive product and ingredient data.<br>
+                <strong>Solution:</strong> Implemented AWS IAM roles, encryption, and secure API gateways.</li>
+            <li><strong>Challenge:</strong> Integrating with external certification bodies and systems.<br>
+                <strong>Solution:</strong> Developed API-based integrations and automated data exchanges.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Collaborated with halal certification authorities and businesses to define system requirements and key features.</li>
+            <li><strong>Design:</strong> Created scalable architecture with microservices and user-centric UI/UX wireframes.</li>
+            <li><strong>Development:</strong> Built backend services using Node.js with Express, integrated MongoDB, and AWS S3.</li>
+            <li><strong>Testing:</strong> Performed extensive testing on data integrity, API performance, and cross-platform usability.</li>
+            <li><strong>Deployment:</strong> Implemented automated CI/CD pipelines for streamlined deployment and updates.</li>
+            <li><strong>Feedback and Iteration:</strong> Regular feedback loops with stakeholders, resulting in continuous improvements, new feature additions, and enhanced data accuracy.</li>
+        </ul>
     </li>
     <li>
         <h4>WhatsHalal’s Ourpasar : Stripe - CC, Flutter, Nodejs (Express), S3 AWS, Postgres, CI/CD</h4>

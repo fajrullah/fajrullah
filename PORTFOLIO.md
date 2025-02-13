@@ -52,6 +52,39 @@
         <ul>
             <li><a href="https://www.youtube.com/watch?v=Uv7L56E1TVg">See the products</a></li>
         </ul>
+        
+> **Key Features:** 
+        <ul>
+            <li>ChatBot built with Vue.js for fast, responsive user interactions.</li>
+            <li>Management dashboard using React.js and Node.js for real-time monitoring and chatbot configuration.</li>
+            <li>MongoDB database for managing chat histories, user data, and bot configurations.</li>
+            <li>Automated deployment and CI/CD pipelines using Jenkins for continuous integration and updates.</li>
+            <li>LiveChat Helpdesk built with React.js for efficient, real-time customer communication.</li>
+            <li>jQuery integrations for legacy system support and seamless frontend interactions.</li>
+            <li>Scalable architecture to handle high volumes of simultaneous chats without performance degradation.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Managing real-time conversations across multiple users simultaneously.<br>
+                <strong>Solution:</strong> Implemented WebSockets for real-time, bidirectional communication between clients and servers.</li>
+            <li><strong>Challenge:</strong> Maintaining chatbot accuracy and response time with growing data.<br>
+                <strong>Solution:</strong> Leveraged MongoDB for fast data retrieval and optimized chatbot algorithms for quicker responses.</li>
+            <li><strong>Challenge:</strong> Seamlessly integrating chatbot and live chat support.<br>
+                <strong>Solution:</strong> Built a hybrid system that allows seamless transitions from chatbot to live chat using shared session data.</li>
+            <li><strong>Challenge:</strong> Ensuring uptime and smooth deployments.<br>
+                <strong>Solution:</strong> Set up Jenkins CI/CD pipelines for automated testing, builds, and deployments.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Conducted requirement analysis with stakeholders to design chatbot flows, dashboard features, and live chat support.</li>
+            <li><strong>Design:</strong> Developed system architecture and wireframes for both chatbot and dashboard interfaces.</li>
+            <li><strong>Development:</strong> Built the chatbot using Vue.js, developed the management dashboard with React.js and Node.js, and implemented the live chat helpdesk with React.js.</li>
+            <li><strong>Testing:</strong> Performed unit, integration, and end-to-end testing to ensure chatbot accuracy, dashboard functionality, and live chat reliability.</li>
+            <li><strong>Deployment:</strong> Utilized Jenkins for automated deployments, ensuring smooth rollouts and quick updates.</li>
+            <li><strong>Feedback and Iteration:</strong> Worked closely with support teams and end-users to continuously improve chatbot responses, dashboard features, and live chat efficiency.</li>
+        </ul>
     </li>
     <li>
         <h4>WhatsHalal’s Assurance and Traceability Management System (ATeMS) : Reactjs, Nodejs (Express), S3 Aws, mongodb, CI/CD </h4><strong>(Unfortunately, the company associated with this project faced financial challenges and ultimately went bankrupt. As a result, the application did not launch as planned, and I am unable to provide a live demonstration.)</strong>

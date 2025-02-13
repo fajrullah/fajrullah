@@ -132,6 +132,8 @@
             <li><strong>Implementation:</strong> Developed the system using Yii for the portal, Node.js (Express) for backend services, and MySQL for data management.</li>
             <li><strong>Testing:</strong> Involved technicians in testing phases to gather feedback and identify bugs.</li>
             <li><strong>Deployment:</strong> Adopted incremental deployment, rolling out features gradually and refining them based on user feedback.</li>
+            <li><strong>Continuous Integration/Deployment (CI/CD):</strong> Implemented a CI/CD pipeline for automated testing, deployment, and faster rollback in case of issues.</li>
+            <li><strong>Regular Sprint Reviews:</strong> Conducted sprint reviews with the service team to prioritize features, address feedback, and ensure alignment with operational needs.</li>
             <li><strong>Maintenance:</strong> Provided ongoing support, bug fixes, and feature enhancements based on technician and customer feedback.</li>
         </ul>
     </li>

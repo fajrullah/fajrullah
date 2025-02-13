@@ -102,7 +102,6 @@
             <li>Automated invoice generation system integrated with sales data.</li>
             <li>Integration with third-party applications, including payment gateways and accounting systems, using XML data exchange.</li>
             <li>Real-time presence tracking for sales representatives working directly with retailers.</li>
-            <li>Feedback and issue reporting system for sales representatives to highlight bugs and request new features.</li>
             <li>Secure and scalable architecture using CodeIgniter, MySQL, and Django for backend services.</li>
         </ul>
 

@@ -114,25 +114,33 @@
             <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
         </ul>
 
-> **Key Features
-:** Designed to enhance communication efficiency and response times, this robust system is your key to seamless NOC application management.
+> **Key Features:** This notification system offers a comprehensive monitoring and alerting solution for NOC applications, ensuring minimal downtime and quick incident response.
         <ul>
-            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+            <li>Monitors critical components such as storage, CPU, servers, services, databases, and applications.</li>
+            <li>Triggers multi-channel alerts (SMS, email, phone calls) to designated PICs during failures.</li>
+            <li>Provides a real-time dashboard for monitoring the health of applications.</li>
+            <li>Automated failure detection and alerting to ensure prompt response.</li>
+            <li>Hierarchical structure for easy identification of failure points and efficient troubleshooting.</li>
         </ul>
 
-> **Challenges & Solutions
-:** Designed to enhance communication efficiency and response times, this robust system is your key to seamless NOC application management.
+> **Challenges & Solutions:** Building a robust notification system involved overcoming several challenges to ensure reliable performance and seamless monitoring.
         <ul>
-            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+            <li>**Challenge:** Identifying critical points for downtime prevention.<br>**Solution:** Conducted detailed planning sessions to map critical services and servers.</li>
+            <li>**Challenge:** Ensuring timely and accurate alerts.<br>**Solution:** Implemented a multi-tier alert system with redundancy.</li>
+            <li>**Challenge:** Developing a hierarchical monitoring system.<br>**Solution:** Created a layered architecture covering all system components.</li>
+            <li>**Challenge:** Testing failure scenarios.<br>**Solution:** Simulated service failures to verify alert triggers.</li>
+            <li>**Challenge:** Providing real-time visibility.<br>**Solution:** Designed a dashboard for PICs to monitor applications in real-time.</li>
         </ul>
 
-> **Project Development Journey:** Designed to enhance communication efficiency and response times, this robust system is your key to seamless NOC application management.
+> **Project Development Journey:** The development of this notification system followed a structured approach from planning to deployment, ensuring a reliable solution for NOC applications.
         <ul>
-            <li><a href="notification-system-noc-applications/architecture-design.png">Architectural Overview of the Application</a></li>
-            <li><a href="notification-system-noc-applications/full-flow.png">FC: Explore the Workflow of the Application</a></li>
+            <li><strong>Planning:</strong> Identified critical components and alert types, assigned PICs.</li>
+            <li><strong>Design:</strong> Developed a hierarchical structure for monitoring.</li>
+            <li><strong>Implementation:</strong> Built the system using PHP, VBS scripts, and Bash.</li>
+            <li><strong>Testing:</strong> Simulated failures to validate alert mechanisms.</li>
+            <li><strong>Deployment:</strong> Delivered a real-time dashboard for PICs to monitor application health.</li>
         </ul>
+
     </li>
 </ol>
 

@@ -94,6 +94,40 @@
             <li><a href="https://www.mitrapedia.com/">See our works catalog web</a></li>
             <li><a href="https://retail.alqolam.com/">See our works admin web</a></li>
         </ul>
+
+> **Key Features:** This e-commerce platform is designed to support the dynamic needs of both resellers and retailers, offering flexibility, integration, and a rewarding sales structure.
+        <ul>
+            <li>Comprehensive portal for resellers and retailers to manage orders, inventory, and sales.</li>
+            <li>Multi-level reseller system with Bronze to Platinum tiers and levels 1-3, influencing pricing, cashback, and voucher benefits based on total sales.</li>
+            <li>Automated invoice generation system integrated with sales data.</li>
+            <li>Integration with third-party applications, including payment gateways and accounting systems, using XML data exchange.</li>
+            <li>Real-time presence tracking for sales representatives working directly with retailers.</li>
+            <li>Feedback and issue reporting system for sales representatives to highlight bugs and request new features.</li>
+            <li>Secure and scalable architecture using CodeIgniter, MySQL, and Django for backend services.</li>
+        </ul>
+
+> **Challenges & Solutions:** The platform’s development involved addressing complex business needs and technical challenges.
+        <ul>
+            <li>**Challenge:** Balancing the diverse needs of resellers and retailers.<br>**Solution:** Conducted regular consultations with both groups to gather insights and refine features accordingly.</li>
+            <li>**Challenge:** Implementing a multi-tier reseller system with dynamic pricing.<br>**Solution:** Developed a flexible pricing engine linked to reseller sales performance and levels.</li>
+            <li>**Challenge:** Managing cashback and vouchers for each reseller tier and level.<br>**Solution:** Built a configurable rewards module that dynamically calculates cashback and applies vouchers based on tier and sales volume.</li>
+            <li>**Challenge:** Ensuring seamless integration with third-party services, including accounting applications.<br>**Solution:** Built a robust XML-based API layer for secure and efficient data exchange with accounting systems.</li>
+            <li>**Challenge:** Handling stock and quantity management across multiple sellers and tiers.<br>**Solution:** Implemented a real-time inventory tracking system with automatic stock adjustments upon orders and returns.</li>
+            <li>**Challenge:** Managing real-time presence and activities of sales representatives.<br>**Solution:** Integrated geolocation and attendance tracking features within the platform.</li>
+            <li>**Challenge:** Rapidly addressing bugs and feature requests from the field.<br>**Solution:** Established a feedback loop for sales reps, enabling quick issue reporting and fast resolutions.</li>
+        </ul>
+
+> **Project Development Journey:** The development process was highly collaborative and iterative, ensuring alignment with business needs at every stage.
+        <ul>
+            <li><strong>Planning:</strong> Partnered with retailers and resellers to outline core requirements and feature sets.</li>
+            <li><strong>Design:</strong> Created an intuitive user interface for seamless navigation and efficient transaction management.</li>
+            <li><strong>Implementation:</strong> Leveraged CodeIgniter and Django for backend development, with MySQL managing the complex data structure.</li>
+            <li><strong>Testing:</strong> Engaged sales representatives during testing phases to provide real-world feedback on usability and functionality.</li>
+            <li><strong>Deployment:</strong> Adopted a phased deployment approach, rolling out key features incrementally to ensure stability and usability.</li>
+            <li><strong>Integration:</strong> Successfully integrated payment gateways and accounting applications through XML data exchange for seamless financial operations.</li>
+            <li><strong>Scalability:</strong> Built a scalable architecture capable of handling increasing reseller levels, cashback/voucher programs, and growing transaction volumes.</li>
+            <li><strong>Continuous Improvement:</strong> Maintained an agile workflow with regular updates, quick bug fixes, and feature enhancements based on field feedback.</li>
+        </ul>
     </li>
     <li>
         <h4>After sales service system: Yii, Nodejs (Express), MySQL </h4><strong>(unable to share detailed visuals for Dashboard)</strong> 

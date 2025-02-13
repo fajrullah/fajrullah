@@ -12,6 +12,40 @@
             <li><a href="op/WORKS.md">See our works</a></li>
             <li><a href="op/architecture-design.png">Notification Feature : Architectural Overview</a></li>
         </ul>
+
+> **Key Features:** 
+        <ul>
+            <li>Comprehensive tax filing and compliance management tools.</li>
+            <li>Automated tax calculations and form generation.</li>
+            <li>Secure user authentication and data encryption.</li>
+            <li>Integrated notifications system for tax deadlines, payment reminders, and status alerts.</li>
+            <li>Multi-platform access via web and mobile interfaces.</li>
+            <li>Seamless integration with financial and accounting software.</li>
+            <li>Real-time tax tracking and reporting features.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Ensuring accuracy and security in tax calculations and submissions.<br>
+                <strong>Solution:</strong> Implemented robust validation checks and encrypted data storage using Java Spring and Postgres.</li>
+            <li><strong>Challenge:</strong> Managing large-scale data efficiently.<br>
+                <strong>Solution:</strong> Utilized MongoDB for flexible data handling and Postgres for structured, high-performance transactions.</li>
+            <li><strong>Challenge:</strong> Implementing real-time notifications without affecting system performance.<br>
+                <strong>Solution:</strong> Built a notification service using Node.js and WebSockets for instant tax updates and reminders.</li>
+            <li><strong>Challenge:</strong> Creating a user-friendly interface for complex tax processes.<br>
+                <strong>Solution:</strong> Designed intuitive frontends with Vue.js and React.js, simplifying tax filing for users.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Collaborated with tax experts and stakeholders to gather requirements and design platform architecture.</li>
+            <li><strong>Design:</strong> Created UI/UX designs ensuring ease of use and accessibility for various tax-related tasks.</li>
+            <li><strong>Development:</strong> Built scalable backend services with Node.js (Express) and Java Spring, integrating multiple databases.</li>
+            <li><strong>Notification System:</strong> Developed a real-time notification feature to keep users informed of their tax obligations.</li>
+            <li><strong>Testing:</strong> Conducted rigorous testing for tax calculations, data accuracy, and system performance.</li>
+            <li><strong>Deployment:</strong> Implemented CI/CD pipelines for smooth deployment and regular updates.</li>
+            <li><strong>Feedback and Iteration:</strong> Gathered user feedback post-launch to enhance features, improve UI, and address any system bugs.</li>
+        </ul>
     </li>
     <li>
         <h4>Hitachi Games : Reactjs, framer motion, Lottie, Supabase</h4>
@@ -20,6 +54,39 @@
         <ul>
             <li><a href="hitachi/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="hitachi/WORKS.md">See our works</a></li>
+        </ul>
+
+> **Key Features:** 
+        <ul>
+            <li>Interactive educational mini-games focused on environmental sustainability and eco-friendly practices.</li>
+            <li>Visually appealing animations powered by Framer Motion and Lottie.</li>
+            <li>Real-time multiplayer functionality and user progress tracking using Supabase.</li>
+            <li>Cross-platform compatibility for web, mobile, and tablet devices.</li>
+            <li>Customizable user avatars and rewards system encouraging positive in-game actions.</li>
+            <li>Data-driven insights into user engagement and learning outcomes.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Creating smooth and interactive animations without compromising performance.<br>
+                <strong>Solution:</strong> Leveraged Framer Motion for lightweight, fluid animations and Lottie for vector-based, scalable graphics.</li>
+            <li><strong>Challenge:</strong> Ensuring real-time data synchronization for multiplayer gameplay.<br>
+                <strong>Solution:</strong> Integrated Supabase for efficient real-time database operations and seamless user authentication.</li>
+            <li><strong>Challenge:</strong> Designing a responsive UI for various screen sizes.<br>
+                <strong>Solution:</strong> Built with React.js, ensuring adaptive design and consistent user experience across devices.</li>
+            <li><strong>Challenge:</strong> Maintaining user engagement through educational content.<br>
+                <strong>Solution:</strong> Implemented gamification elements like rewards, leaderboards, and interactive storytelling.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Collaborated with stakeholders to define educational goals, game mechanics, and technical requirements.</li>
+            <li><strong>Design:</strong> Created wireframes and animation prototypes using Framer Motion and Lottie to visualize gameplay elements.</li>
+            <li><strong>Development:</strong> Developed a responsive and interactive frontend with React.js, integrating animations and Supabase services.</li>
+            <li><strong>Database Integration:</strong> Implemented Supabase for real-time data handling, including user authentication and game progress tracking.</li>
+            <li><strong>Testing:</strong> Conducted comprehensive testing for gameplay performance, animation quality, and cross-platform responsiveness.</li>
+            <li><strong>Deployment:</strong> Deployed the game with CI/CD pipelines, ensuring smooth updates and integration of new features.</li>
+            <li><strong>Feedback and Iteration:</strong> Collected feedback from players and stakeholders, iterating on game mechanics, animations, and user engagement features.</li>
         </ul>
     </li>
     <li>
@@ -30,6 +97,39 @@
             <li><a href="chrysaule/architecture-design.png">Trading: Architectural Overview</a></li>
             <li><a href="https://gauld.com/">Go to web</a></li>
         </ul>
+
+> **Key Features:** 
+        <ul>
+            <li>Secure trading of physical gold and cash investments.</li>
+            <li>User-friendly investment portfolio management interface with real-time data updates.</li>
+            <li>GraphQL-powered data fetching for fast, on-demand access to investment data and market trends.</li>
+            <li>Robust authentication and secure transaction handling for financial data.</li>
+            <li>Custom dashboards providing insights into investment performance, market analysis, and asset tracking.</li>
+            <li>Mobile-friendly and cross-browser compatibility for seamless access across devices.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Ensuring high performance while handling real-time financial data.<br>
+                <strong>Solution:</strong> Leveraged React’s efficient rendering and GraphQL’s precise data queries to minimize load times and optimize performance.</li>
+            <li><strong>Challenge:</strong> Securing sensitive financial transactions and user data.<br>
+                <strong>Solution:</strong> Implemented secure HTTPS protocols, JWT authentication, and NestJS’s built-in security features.</li>
+            <li><strong>Challenge:</strong> Managing complex investment logic and data relationships.<br>
+                <strong>Solution:</strong> Utilized GraphQL’s flexibility to handle complex queries and NestJS for structured, maintainable backend code.</li>
+            <li><strong>Challenge:</strong> Delivering a smooth and responsive UI for various devices.<br>
+                <strong>Solution:</strong> Built a responsive frontend with React.js, ensuring compatibility and performance on desktops, tablets, and mobiles.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Collaborated with stakeholders to define platform requirements, including trading features, data security, and user experience goals.</li>
+            <li><strong>Design:</strong> Designed intuitive UI/UX wireframes and system architecture for seamless frontend-backend integration.</li>
+            <li><strong>Development:</strong> Implemented the frontend using React.js, ensuring dynamic rendering and responsive design.</li>
+            <li><strong>API Integration:</strong> Integrated GraphQL APIs to enable efficient, real-time data exchange between client and server.</li>
+            <li><strong>Testing:</strong> Conducted rigorous frontend testing for performance, security, and usability across different devices and browsers.</li>
+            <li><strong>Deployment:</strong> Deployed the platform with CI/CD pipelines, ensuring smooth releases and continuous integration of new features.</li>
+            <li><strong>Feedback and Iteration:</strong> Actively gathered feedback from users and stakeholders, iterating on design and functionality to enhance user experience and system performance.</li>
+        </ul>
     </li>
      <li>
         <h4>AAQUA : Java Spring, DynamoDB, Cucumber, Netflix DGS, Aws Cognito</h4>
@@ -37,6 +137,39 @@
 > **Description:** Aaqua is a Singapore platform that aims to connect like-minded people everywhere. It was created to enable global users to share their passions through groups built MAGIC: Music, Arts, Games, Interests, and Community.
         <ul>
             <li><a href="aaqua/architecture-design.png">Architectural Overview of the Application</a></li>
+        </ul>
+
+> **Key Features:** 
+        <ul>
+            <li>Community-centric platform connecting users through MAGIC categories: Music, Arts, Games, Interests, and Community.</li>
+            <li>Scalable microservices architecture powered by Java Spring Boot.</li>
+            <li>GraphQL APIs with Netflix DGS for efficient data retrieval and updates across various user-generated content.</li>
+            <li>Robust authentication and user management with AWS Cognito.</li>
+            <li>High availability and performance using AWS DynamoDB as the primary database.</li>
+            <li>Automated testing suite with Cucumber to ensure reliability across different user scenarios.</li>
+            <li>Dynamic group creation, content sharing, and interactive community features to foster user engagement.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Managing large-scale, real-time user interactions within community groups.<br>
+                <strong>Solution:</strong> Implemented scalable microservices with Java Spring and AWS DynamoDB for high throughput and low latency.</li>
+            <li><strong>Challenge:</strong> Ensuring seamless and secure user authentication across global users.<br>
+                <strong>Solution:</strong> Integrated AWS Cognito for secure, scalable, and customizable authentication flows.</li>
+            <li><strong>Challenge:</strong> Handling complex data queries and mutations for diverse community content.<br>
+                <strong>Solution:</strong> Used Netflix DGS for GraphQL APIs to optimize data fetching and ensure smooth user experiences.</li>
+            <li><strong>Challenge:</strong> Maintaining platform stability and functionality through frequent updates.<br>
+                <strong>Solution:</strong> Employed Cucumber for automated end-to-end testing to catch potential bugs early.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Collaborated with stakeholders to define the platform’s vision, including community features and technical architecture.</li>
+            <li><strong>Design:</strong> Created system designs for scalable microservices, database structures, and user authentication flows.</li>
+            <li><strong>Development:</strong> Developed backend services using Java Spring, integrated GraphQL with Netflix DGS, and secured the platform with AWS Cognito.</li>
+            <li><strong>Testing:</strong> Implemented comprehensive testing with Cucumber to ensure platform reliability, performance, and user satisfaction.</li>
+            <li><strong>Deployment:</strong> Deployed the platform using AWS services, ensuring high availability, scalability, and security.</li>
+            <li><strong>Feedback and Iteration:</strong> Regularly gathered feedback from users and stakeholders, continuously refining and enhancing platform features and performance.</li>
         </ul>
     </li>
     <li>

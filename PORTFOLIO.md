@@ -65,12 +65,44 @@
     <li>
         <h4>WhatsHalal’s Ourpasar : Stripe - CC, Flutter, Nodejs (Express), S3 AWS, Postgres, CI/CD</h4>
 
-> **Description:** OurPasar is an app that delivers fresh groceries right to your doorstep. Everything your family needs to enjoy a healthier meal is definitely available in the OurPasar app.
+> **Description:** An online grocery platform delivering fresh, halal-certified products directly to customers’ doorsteps, offering a seamless experience across web and mobile applications.
         <ul>
             <li><a href="ourpasar/WORKS.md">See our works</a></li>
             <li><a href="https://play.google.com/store/apps/details?id=com.ourpasar.opconsumerapp">Check on the Play Store</a></li>
         </ul>
-    </li>
+        
+> **Key Features:** 
+        <ul>
+            <li>Scalable backend built on Node.js (Express) and Postgres for robust data handling.</li>
+            <li>Cloud storage on AWS S3 for managing product images, user data, and media.</li>
+            <li>CI/CD pipelines ensuring smooth deployment, testing, and updates.</li>
+            <li>Product categories including fresh produce, meats, seafood, and specialty items like Japanese groceries.</li>
+            <li>User-friendly app interface with saved carts, recipe suggestions, and promotional offers.</li>
+            <li>Integration with promotional campaigns, vouchers, and loyalty programs.</li>
+        </ul>
+
+> **Challenges & Solutions:**
+        <ul>
+            <li><strong>Challenge:</strong> Maintaining product freshness during delivery.<br>
+                <strong>Solution:</strong> Implemented an optimized supply chain and real-time delivery tracking.</li>
+            <li><strong>Challenge:</strong> Managing inventory across multiple categories.<br>
+                <strong>Solution:</strong> Integrated a real-time inventory management system linked with the backend.</li>
+            <li><strong>Challenge:</strong> Handling high traffic during promotions.<br>
+                <strong>Solution:</strong> Utilized AWS auto-scaling and caching strategies for performance.</li>
+            <li><strong>Challenge:</strong> Cross-platform development complexities, especially on iOS due to stricter app store guidelines and specific device behaviors.<br>
+                <strong>Solution:</strong> Implemented platform-specific code in Flutter, ensured thorough testing on iOS devices, and followed best practices for App Store compliance.</li>
+        </ul>
+
+> **Project Development Journey:**
+        <ul>
+            <li><strong>Planning:</strong> Collaborated with stakeholders to define key features and prioritize product categories.</li>
+            <li><strong>Design:</strong> Created wireframes and UI/UX flows for both web and mobile platforms.</li>
+            <li><strong>Development:</strong> Built modular backend services and integrated Stripe, AWS, and Postgres.</li>
+            <li><strong>Testing:</strong> Conducted unit, integration, and user acceptance testing for a seamless experience, with extra focus on cross-platform performance, especially on iOS.</li>
+            <li><strong>Deployment:</strong> Implemented CI/CD pipelines for automated builds, tests, and deployments.</li>
+            <li><strong>Feedback and Iteration:</strong> Collected user feedback post-launch, leading to feature enhancements and bug fixes, including platform-specific improvements.</li>
+        </ul>
+  </li>
     <li>
         <h4>Analytics dashboard: React, Django, Nodejs (Express) </h4><strong>(unable to share detailed visuals for Dashboard)</strong>
 

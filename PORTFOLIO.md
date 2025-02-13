@@ -140,7 +140,6 @@
             <li><strong>Testing:</strong> Simulated failures to validate alert mechanisms.</li>
             <li><strong>Deployment:</strong> Delivered a real-time dashboard for PICs to monitor application health.</li>
         </ul>
-
     </li>
 </ol>
 

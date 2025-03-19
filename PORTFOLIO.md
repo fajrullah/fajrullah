@@ -54,6 +54,7 @@
         <ul>
             <li><a href="hitachi/architecture-design.png">Architectural Overview of the Application</a></li>
             <li><a href="hitachi/WORKS.md">See our works</a></li>
+            <li><a href="https://hitachi.asia/ecoheros/)">Live Demo</a></li>
         </ul>
 
 > **Key Features:** 
